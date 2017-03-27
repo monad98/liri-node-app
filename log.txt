@@ -1,0 +1,26 @@
+# Movie Information
+ - Title: Beauty and the Beast
+ - Year: 1991
+ - IMDB Rating: 8.0
+ - Country: USA
+ - Language: English, French
+ - Plot: A young woman whose father has been imprisoned by a terrifying beast offers herself in his place, unaware that her captor is actually a prince, physically altered by a magic spell.
+ - Actors: Robby Benson, Jesse Corti, Rex Everhart, Angela Lansbury
+ - Rotten Tomato Rating: N/A
+ - Rotten Tomatoes URL: http://www.rottentomatoes.com/m/beauty_and_the_beast_1991/
+
+# My latest tweets: 
+ - This is my 7th tweet.
+ - This is my 6th tweet.
+ - This is my 5th tweet.
+ - This is my fourth tweet.
+ - This is my third tweet.
+ - This is my second tweet.
+ - This is my first tweet.
+
+# Song Infomation
+ - Artist: Backstreet Boys
+ - Title: I Want It That Way
+ - Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+ - Album: The Hits--Chapter One
+
